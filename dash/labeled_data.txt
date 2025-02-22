@@ -1,0 +1,1 @@
+{'text': 'There are some other worrying signals that wage growth could be slowing.', 'labels': [(21, 36, 'bad'), (43, 54, 'good'), (64, 71, 'bad')]}
